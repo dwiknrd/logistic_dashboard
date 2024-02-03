@@ -131,6 +131,8 @@ app = Dash(
     name='Dashboard - Pengiriman COD'
     )
 
+server = app.server
+
 app.title = 'Dashboard - Pengiriman COD'
 
 
